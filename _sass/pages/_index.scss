@@ -1,0 +1,14 @@
+body.page-index {
+
+  .centerer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+    .centered {
+      flex: none;
+      margin: auto;
+    }
+  }
+}
